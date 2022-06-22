@@ -10,7 +10,7 @@ Keras-Preprocessing==1.1.2
 llvmlite==0.31.0
 Markdown==3.2.2
 numba==0.47.0
-numpy==1.18.5
+numpy==1.22.0
 protobuf==3.12.2
 python-speech-features==0.6
 resampy==0.2.2
